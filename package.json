@@ -1,0 +1,18 @@
+{
+  "name": "weather",
+  "version": "0.0.1",
+  "description": "Example weather data parser",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "test": "node test"
+  },
+  "dependencies": {
+    "flunc-grammar": "0.0.3",
+    "flunc-optics": "0.0.2",
+    "flyd": "0.2.2",
+    "jsverify": "0.7.3",
+    "ramda-fantasy": "0.6.1"
+  }
+}
